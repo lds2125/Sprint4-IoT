@@ -60,3 +60,9 @@ As cores indicam o estado:
 2. **Mapeamento** – O centro do `bbox` é convertido para posições em um grid do pátio.  
 3. **Estado da Moto** – Cada moto recebe um estado aleatório (`em_uso`, `parada`, `manutencao`).   
 4. **Dashboard** – O pátio é renderizado em um mapa colorido usando `matplotlib`.
+
+
+## Integrantes
+Matheus Henrique Germano Reis 555861
+Luan Dantas dos Santos 559004
+Enzo Dias Alfaia Mendes 558438
